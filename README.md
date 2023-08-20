@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ikram Muhammad
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Universitas Teknologi Yogyakarta
+- 🌱 Bachelor of Informatics, Universitas Teknologi Yogyakarta
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - WA     : +6281352557069
