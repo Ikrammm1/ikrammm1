@@ -18,7 +18,7 @@
 My name is Muhammad Ikram, and I'm a recent graduate from Universitas Teknologi Yogyakarta in Indonesia 🇮🇩. I've been working part-time as a programmer since 2022. I enjoy building applications with clean and quality code and exploring clean architecture to make applications more maintainable and scalable.
 <ul>
   <li>💼 1.5 Years of Experience. <br></li>
-  <li>👨‍💻 Good understanding of Vue.js, Laravel, Kotlin, and VueJs.<br></li>
+  <li>👨‍💻 Good understanding of CodeIgniter, Laravel, Kotlin, and VueJs.<br></li>
   <li>👌 Have experience with Laravel, CodeIgniter, Android Kotlin, Vue.js, PostgreSQL and Oracle.<br></li>
   <li>📱 Currently learning React Native for mobile development.<br></li>
   
