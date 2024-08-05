@@ -20,7 +20,6 @@ My name is Muhammad Ikram, and I'm a recent graduate from Universitas Teknologi 
   <li>💼 1.5 Years of Experience. <br></li>
   <li>👨‍💻 Good understanding of Vue.js, Laravel, Kotlin, and VueJs.<br></li>
   <li>👌 Have experience with Laravel, CodeIgniter, Android Kotlin, Vue.js, PostgreSQL and Oracle.<br></li>
-  <li>🛁 Trying to improve and write cleaner code.<br></li>
   <li>📱 Currently learning React Native for mobile development.<br></li>
   
 </ul>
